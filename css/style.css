@@ -1,0 +1,43 @@
+header {
+    text-align: center;
+    margin-bottom: 100px;
+    background-color:#E6E6E6;
+    ;
+}
+
+.titulo {
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: 700;
+    font-size: 35;
+    color: #005677;
+    background-color:#C4C4C4;
+    ;
+}
+
+.h2{
+    background-color:#C4C4C4;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: 700;
+    color: #005677;
+}
+
+.negritaItalica{
+    font-weight: bold;
+    font-style: italic;
+}
+
+.negrita{
+    font-weight: bold;
+}
+
+.block{
+    display:inline-block
+}
+
+footer{
+    text-align: center;
+    background-color:#005677;
+    color: white;
+    margin-top: 100px;
+
+}
